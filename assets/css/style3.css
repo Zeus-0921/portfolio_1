@@ -689,6 +689,20 @@ body {
     background: #BA14F6;
     border: 2px solid #BA14F6;
   }
+
+.resume .btn {
+    background-color:#BA14F6;
+    border: none;
+    color: white;
+    padding: 8px 18px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  /* Darker background on mouse-over */
+  .resume .btn:hover {
+    background-color: #9a11cc;
+  }
   
   /*--------------------------------------------------------------
   # Services

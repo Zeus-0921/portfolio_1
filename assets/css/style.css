@@ -408,6 +408,12 @@ body {
   /*--------------------------------------------------------------
   # About
   --------------------------------------------------------------*/
+.smaller-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 400px; /* Adjust the maximum height as needed */
+  }
+
   .about-me .content h3 {
     font-weight: 700;
     font-size: 26px;
